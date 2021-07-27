@@ -1,0 +1,31 @@
+.background-color{
+    background-color:antiquewhite;
+}
+.tv-background{
+    background-color: #feeae9;
+}
+.X-box-bg{
+    background-color: rgb(226, 186, 186);
+}
+.bk-bg{
+    background-color: rgb(238, 165, 165);
+}
+.panda-btn-buy-now{
+    background-image: linear-gradient(to bottom,#ff589b 0%, #ff4b92 100%);
+          color: white;
+          border-radius: 8px;
+          padding: 9px 25px;
+          border:none;
+
+}
+.sub-bg{
+    background-image: linear-gradient(to bottom,#d66693 0%, #e7337b 100%);
+    
+}
+.panda-btn{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    
+          border:none;
+}
